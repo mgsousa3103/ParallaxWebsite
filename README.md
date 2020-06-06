@@ -1,17 +1,29 @@
-![example](https://user-images.githubusercontent.com/22710485/83784335-cfb76880-a666-11ea-9312-a5ae769c8e8e.PNG)
+<h1 align="center">Parallax Website</h1>
 
-![](https://img.shields.io/github/issues/mgsousa3103/parallax-rellax) ![](https://img.shields.io/github/forks/mgsousa3103/parallax-rellax) ![](https://img.shields.io/github/stars/mgsousa3103/parallax-rellax)![](https://img.shields.io/github/license/mgsousa3103/parallax-rellax)
+<p align="center">A funny website using a lib called Rellax</p>
 
-## Parallax with Rellaxjs
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/github/license/mgsousa3103/ParallaxWebsite" alt="License MIT">
+  </a>
+</p>
 
-:smile: Site usando _parallax effect_ com uma biblioteca chamada Rellax.
+![parallax website](https://user-images.githubusercontent.com/22710485/83784335-cfb76880-a666-11ea-9312-a5ae769c8e8e.PNG)
 
-#### Link
+---
 
-- [Vanilla Javascript Parallax Library - Rellax](https://dixonandmoe.com/rellax/)
+## Features
 
-## :memo: Licença
+- HTML
+- CSS
+- Javascript
 
-Projeto sob a licença [MIT](https://choosealicense.com/licenses/mit/). Para mais detalhes acesse [LICENSE](LICENSE.md)
+## Getting started
 
-Made by [Matheus Guedes](https://www.linkedin.com/in/matheusgsousa/) :metal:
+1. Clone this repo using `git clone https://github.com/mgsousa3103/ParallaxWebsite.git`
+2. Move yourself to the appropriate directory: `cd ParallaxWebsite`
+3. Open the `index.html` file in your browser
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) page for details
